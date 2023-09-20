@@ -1,0 +1,32 @@
+.contenu{
+  width:95%;
+  margin:50px auto 50px;
+  text-align: center;
+  border:1px solid teal;
+  padding: 5px;
+}
+.contenu:hover{
+  border: none;
+  box-shadow: 1px 3px 5px 10px teal;
+}
+img{
+    width:100%;
+}
+h1{
+  color:teal;
+  font-size:45px;
+  font-weight: bold;
+}
+p{
+  font-size: 20px;
+  color:#777;
+  
+}
+.small{
+  text-align:right ;
+  font-size: 11px;
+  color: teal;
+  padding-top:15px;
+  margin-right:15px;
+  margin-bottom:20px;
+}
